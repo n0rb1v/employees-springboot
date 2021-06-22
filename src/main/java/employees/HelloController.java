@@ -8,9 +8,14 @@ import java.time.LocalDateTime;
 
 @RestController
 public class HelloController {
+    private HelloService helloService;
+
+    public HelloController(HelloService helloService) {
+        this.helloService = helloService;
+    }
 
     @GetMapping("/")
     public String sayHello() {
-        return "Hello Spring Boot " + LocalDateTime.now();
+        return helloService.sayHello();
     }
 }
