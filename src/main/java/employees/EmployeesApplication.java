@@ -2,6 +2,7 @@ package employees;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class EmployeesApplication {
@@ -10,4 +11,8 @@ public class EmployeesApplication {
 		SpringApplication.run(EmployeesApplication.class, args);
 	}
 
+//	@Bean
+//	public HelloService helloService() {
+//		return new HelloService();
+//	}
 }

@@ -7,6 +7,6 @@ import java.time.LocalDateTime;
 @Service
 public class HelloService {
     public String sayHello() {
-        return "Hello Spring boot (service)" + LocalDateTime.now();
+        return "Hello Spring boot (service dev)" + LocalDateTime.now();
     }
 }
