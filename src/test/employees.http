@@ -1,0 +1,24 @@
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Jane Doe"
+}
+
+###
+GET http://localhost:8080/api/employee
+Accept: application/json
+
+###
+
+PUT http://localhost:8080/api/employee/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+###
+
+DELETE http://localhost:8080/api/employee/1
