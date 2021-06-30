@@ -1,0 +1,274 @@
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Xxxx"
+}
+
+<> 2021-06-30T201811.201.json
+
+###
+
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Xx"
+}
+
+<> 2021-06-30T201803.400.json
+
+###
+
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "X"
+}
+
+<> 2021-06-30T201758.400.json
+
+###
+
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "x"
+}
+
+<> 2021-06-30T201742.400.json
+
+###
+
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Jane Doe"
+}
+
+<> 2021-06-30T201721.201.json
+
+###
+
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": ""
+}
+
+<> 2021-06-30T195058.400.json
+
+###
+
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": ""
+}
+
+<> 2021-06-30T193210.400.json
+
+###
+
+PUT http://localhost:8080/api/employee/31
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+<> 2021-06-30T174735.404.json
+
+###
+
+GET http://localhost:8080/api/employee
+Accept: application/json
+
+<> 2021-06-30T174723.200.json
+
+###
+
+PUT http://localhost:8080/api/employee/31
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+<> 2021-06-30T174536.404.json
+
+###
+
+PUT http://localhost:8080/api/employee/31
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+###
+
+PUT http://localhost:8080/api/employee/31
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+###
+
+PUT http://localhost:8080/api/employee/31
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+###
+
+PUT http://localhost:8080/api/employee/31
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+###
+
+PUT http://localhost:8080/api/employee/31
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+<> 2021-06-24T170213.500.json
+
+###
+
+PUT http://localhost:8080/api/employee/3
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+<> 2021-06-24T170207.500.json
+
+###
+
+PUT http://localhost:8080/api/employee/3
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+<> 2021-06-24T165940.500.json
+
+###
+
+DELETE http://localhost:8080/api/employee/4
+
+<> 2021-06-24T165914.500.json
+
+###
+
+GET http://localhost:8080/api/employee
+Accept: application/json
+
+<> 2021-06-24T165904.200.json
+
+###
+
+DELETE http://localhost:8080/api/employee/4
+
+<> 2021-06-24T165739.500.json
+
+###
+
+DELETE http://localhost:8080/api/employee/4
+
+<> 2021-06-24T165734.500.json
+
+###
+
+DELETE http://localhost:8080/api/employee/4
+
+###
+
+GET http://localhost:8080/api/employee
+Accept: application/json
+
+<> 2021-06-24T162928.200.json
+
+###
+
+DELETE http://localhost:8080/api/employee/1
+
+###
+
+PUT http://localhost:8080/api/employee/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "John Bill Doe"
+}
+
+<> 2021-06-24T162913.200.json
+
+###
+
+GET http://localhost:8080/api/employee
+Accept: application/json
+
+<> 2021-06-24T162906.200.json
+
+###
+
+POST http://localhost:8080/api/employee
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Jane Doe"
+}
+
+<> 2021-06-24T162854.201.json
+
+###
+
+GET http://localhost:8080/api/employee
+Accept: application/json
+
+<> 2021-06-24T162817.200.json
+
+###
+
+GET http://localhost:8080/api/employee
+Accept: application/json
+
+###
+
